@@ -1,5 +1,5 @@
 {
-    "server": "65.1.80.172",
+    "server": "3.7.100.99",
     "server_port": 443,
     "password": "WNbYAf2z6AclphIRxlwP5C",
     "method": "chacha20-ietf-poly1305"
